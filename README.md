@@ -16,4 +16,4 @@ This project was created for the Hello World lab. The goal was to create a simpl
 
 ## Live Website
 
-[View my website](https://splendorous-gumption-40a1a5.netlify.app/)
+[View my website](https://dajuans-hello-world.netlify.app/)
